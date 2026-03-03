@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "だめにんげんだ!（feat. 重音テト）",
+  "base_artist": "薄塩指数",
+  "createdAt": "2026-03-03T04:19:06.938674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "だめにんげんだ! (feat. 重音テト)",
+      "artist": "薄塩指数",
+      "has_synced": false,
+      "path": "select/01_だめにんげんだ!_(feat._重音テト)_薄塩指数.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "だめにんげんだ! (feat. 重音テト)",
+      "artist": "薄塩指数, 重音テト",
+      "has_synced": true,
+      "path": "select/02_だめにんげんだ!_(feat._重音テト)_薄塩指数,_重音テト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だめにんげんだ! (feat. 重音テト)",
+      "artist": "薄塩指数",
+      "has_synced": false,
+      "path": "select/pl_01_だめにんげんだ!_(feat._重音テト)_薄塩指数.txt"
+    }
+  ]
+}
